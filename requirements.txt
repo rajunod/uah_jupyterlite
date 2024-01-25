@@ -44,7 +44,7 @@ ipycanvas>=0.9.1
 # Python: ipyleaflet library for Jupyter notebooks (optional)
 ipyleaflet
 
-leafmap
+leafmap>=0.11.3
 rasterio
 localtileserver
 
